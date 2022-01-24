@@ -1,4 +1,4 @@
-# event
+# Vue 2 & Tailwind 2 setup
 
 ## Project setup
 ```
